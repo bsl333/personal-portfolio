@@ -1,4 +1,7 @@
 .head-shot {
-  height: 15%;
-  widows: 15%;
+  /* height: 14%;
+  widows: 14%; */
+  padding: 30px;
+  height: 300px;
+  width: 300px
 }
